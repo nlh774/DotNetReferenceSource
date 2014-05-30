@@ -39,7 +39,7 @@ namespace System.Collections.Generic
     {
         //默认容量，非List实际的元素数
         private const int _defaultCapacity = 4;
-
+        //列表内容
         private T[] _items;
         [ContractPublicPropertyName("Count")]
         //List实际的元素数，对应Count属性
