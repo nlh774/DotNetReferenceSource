@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\clr\src\managedlibraries\remoting\obj\Debug\System.Runtime.Remoting.csprojResolveAssemblyReference.cache

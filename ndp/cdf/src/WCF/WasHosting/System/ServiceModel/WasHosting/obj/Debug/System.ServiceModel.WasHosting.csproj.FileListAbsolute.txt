@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\cdf\src\WCF\WasHosting\System\ServiceModel\WasHosting\obj\Debug\System.ServiceModel.WasHosting.csprojResolveAssemblyReference.cache

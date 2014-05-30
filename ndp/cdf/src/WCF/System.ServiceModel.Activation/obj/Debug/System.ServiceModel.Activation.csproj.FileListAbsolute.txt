@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\cdf\src\WCF\System.ServiceModel.Activation\obj\Debug\System.ServiceModel.Activation.csprojResolveAssemblyReference.cache

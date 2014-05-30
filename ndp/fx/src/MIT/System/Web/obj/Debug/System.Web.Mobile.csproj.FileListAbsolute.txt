@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\fx\src\mit\System\Web\obj\Debug\System.Web.Mobile.csprojResolveAssemblyReference.cache

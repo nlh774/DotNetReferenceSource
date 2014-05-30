@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\cdf\src\WF\Common\obj\Debug\System.Workflow.ComponentModel.csprojResolveAssemblyReference.cache

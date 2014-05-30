@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\cdf\src\NetFx40\System.ServiceModel.Channels\obj\Debug\System.ServiceModel.Channels.csprojResolveAssemblyReference.cache

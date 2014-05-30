@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\cdf\src\wcf\tools\obj\Debug\svcutil.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\fx\src\DataWebControlsDesign\obj\Debug\System.Web.Entity.Design.csprojResolveAssemblyReference.cache

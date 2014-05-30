@@ -1,0 +1,1 @@
+E:\学习材料\DotNetReferenceSource\Source\ndp\cdf\src\NetFx40\System.ServiceModel.Discovery\obj\Debug\System.ServiceModel.Discovery.csprojResolveAssemblyReference.cache
